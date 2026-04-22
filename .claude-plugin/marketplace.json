@@ -3,8 +3,8 @@
   "name": "diva",
   "description": "Ultra-compressed communication mode for Claude Code. Cuts ~75% of tokens while keeping full technical accuracy.",
   "owner": {
-    "name": "Julius Brussee",
-    "url": "https://github.com/JuliusBrussee"
+    "name": "Pritika Shukla",
+    "url": "https://github.com/Pritika-Shukla"
   },
   "plugins": [
     {

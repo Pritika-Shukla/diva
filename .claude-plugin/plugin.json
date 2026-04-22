@@ -2,8 +2,8 @@
   "name": "diva",
   "description": "Ultra-compressed communication mode. Cuts ~75% of tokens while keeping full technical accuracy by speaking like a diva.",
   "author": {
-    "name": "Julius Brussee",
-    "url": "https://github.com/JuliusBrussee"
+    "name": "Pritika Shukla",
+    "url": "https://github.com/Pritika-Shukla"
   },
   "hooks": {
     "SessionStart": [
